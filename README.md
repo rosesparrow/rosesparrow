@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm rosesparrow 
 
-<!--
-**rosesparrow/rosesparrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Finance Professional | Data Analytics | Portfolio & Risk Analysis
 
-Here are some ideas to get you started:
+Finance professional returning to the industry after a career break, with a fresh 
+data analytics skillset to go alongside 10+ years of institutional equity markets 
+experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tools & Skills
+
+- **Python** — pandas, NumPy, yfinance, Plotly, Matplotlib
+- **Excel** — advanced modelling, Brinson attribution analysis
+- **Tableau** | **Streamlit** | SQL | data visualisation | Bloomberg
+  
+---
+
+## What I'm building here
+
+A portfolio of finance + data projects demonstrating how markets knowledge and 
+analytical skills fit together. Starting with a Trading Cost Analysis Dashboard 
+and growing from there.
+
+---
